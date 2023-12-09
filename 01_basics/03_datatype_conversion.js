@@ -38,7 +38,14 @@
 // "" => false
 // "hites" => true
 
+// Example -> 5
 let someNumber = 33;
 let stringNumber = String(someNumber);
 console.log(stringNumber);
 console.log(typeof stringNumber);
+
+// Example -> 6
+let someString = "Babita";
+let numeric = Number(someString);
+console.log(numeric);
+console.log(typeof numeric);
