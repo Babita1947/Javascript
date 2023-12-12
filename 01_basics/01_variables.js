@@ -9,7 +9,7 @@ accountCity = "Jaipur";
 // accountId = 2; // Not allowed
 accountEmail = "hiteshgmail.com";
 accountPass = "2121212121";
-accountCity = "Bangaldesh"; //In javascript it is possible to store data in a variable without declare its data type i.e let, const, var (NOTE: # it's possible but not efficient)
+accountCity = "Bangaldesh"; //In javascript it is possible to store data in a variable without declare its data type i.e let, const, var (NOTE: # it's possible but not correct)
 
 let accountState; // value is declare without initialising it then it assigns undefined value
 console.log(accountId);
