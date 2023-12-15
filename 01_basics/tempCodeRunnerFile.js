@@ -1,1 +1,1 @@
-console.log(null >= 0);
+console.log(hundreds.toLocaleString('en-IN'));
