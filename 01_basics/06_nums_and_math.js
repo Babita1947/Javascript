@@ -36,8 +36,8 @@ console.log(Math.abs(-4));
 // console.log(Math.floor(99.9));
 // console.log(Math.sqrt(625));
 // console.log(Math.max(11,22,33,44,55));
-console.log(Math.min(11,22,33,44,55));
-console.log(Math.random()); //Math.random() value always lie between [0,1)
+//console.log(Math.min(11,22,33,44,55));
+//console.log(Math.random()); //Math.random() value always lie between [0,1)
 // console.log((Math.random()*10) + 1); //[1,10)
 // console.log(Math.floor(Math.random()*10) + 1);
 
